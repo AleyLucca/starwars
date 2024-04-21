@@ -57,6 +57,10 @@ i:hover {
     color: gold;
 }
 
+.social-midia:hover{
+    cursor: pointer;
+}
+
 .main-container{
     display: flex;
     align-items: center;
